@@ -1,6 +1,6 @@
 <template>
   <h1>Github Action test 4</h1>
-  <h1>Jenkins test 1</h1>
+  <h1>Jenkins test 2</h1>
   <img alt="Vue logo" src="./assets/logo.png" />
   <HelloWorld msg="Welcome to Your Vue.js App" />
 </template>
