@@ -1,5 +1,5 @@
 <template>
-  <h1>Github Action test 1</h1>
+  <h1>Github Action test 3</h1>
   <img alt="Vue logo" src="./assets/logo.png" />
   <HelloWorld msg="Welcome to Your Vue.js App" />
 </template>
