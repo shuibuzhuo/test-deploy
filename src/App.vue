@@ -4,6 +4,7 @@
   <h1>Edit PublicPath</h1>
   <h1>commit test1</h1>
   <h1>commit test2</h1>
+  <h1>commit test3</h1>
   <img alt="Vue logo" src="./assets/logo.png" />
   <HelloWorld msg="Welcome to Your Vue.js App" />
 </template>
