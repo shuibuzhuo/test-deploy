@@ -7,6 +7,7 @@
   <h1>commit test3</h1>
   <h1>commit test 100</h1>
   <h1>docker test 1</h1>
+  <h1>docker test 2</h1>
   <img alt="Vue logo" src="./assets/logo.png" />
   <HelloWorld msg="Welcome to Your Vue.js App" />
 </template>
